@@ -22,7 +22,7 @@ var e = function (s) {
 function GetResult() {
     g = String.fromCharCode;
  
-    t = "bttdm.com";
+    t = "bttdm.com"; // change to ur desired domain
     Handler.HanderKey = Key1;
 
     CalCulations
